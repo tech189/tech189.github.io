@@ -1,3 +1,3 @@
 # My Website
 
-This is Tech189's website.
+This is tech189's website.
