@@ -7,7 +7,7 @@
 *.o
 *.so
 
-.gitignore
+*.gitignore
 
 # Packages #
 ############
