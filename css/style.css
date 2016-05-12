@@ -390,3 +390,14 @@
 		text-align: center;
 		width: 100%;
 	}
+	
+	.footer {
+  margin: 30px auto;
+  padding: 20px 0;
+  max-width: 40%;
+  width: 100%;
+  border-top: 1px solid #000;
+  color: #666;
+	margin-top: 40px;
+  font-size: 12px;
+}
